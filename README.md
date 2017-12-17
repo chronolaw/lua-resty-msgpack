@@ -3,6 +3,13 @@ Lua messagepack for ngx_lua/stream_lua/OpenResty, Only for LuaJIT
 
 This is a wrapper for [luajit-msgpack-pure](https://github.com/catwell/luajit-msgpack-pure)
 
+## Installation
+
+Please use `opm`, such as :
+
+```lua
+opm get chronolaw/lua-resty-msgpack
+```
 
 ## Usage
 
