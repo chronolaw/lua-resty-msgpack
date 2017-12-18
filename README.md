@@ -3,6 +3,8 @@ Lua messagepack for ngx_lua/stream_lua/OpenResty
 
 This is an opm wrapper for [lua-MessagePack](https://github.com/fperrad/lua-MessagePack.git)
 
+Another choice is [luajit-msgpack-pure](https://github.com/catwell/luajit-msgpack-pure), but it has a different API.
+
 ## Installation
 
 Please use `opm`, such as :
